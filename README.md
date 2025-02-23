@@ -10,6 +10,8 @@ A simple Node.js wrapper to fetch League of Legends champion details from an API
 
 ## 📦 Installation
 
+Install the package using npm:
+
 ```sh
 npm install lol-champion-info
 ```
@@ -17,14 +19,17 @@ npm install lol-champion-info
 ---
 
 ## 🚀 Features
-✅ Fetches League of Legends champion details.
-✅ Supports multiple languages (`en`, `tr` and many more!).
-✅ Lightweight and easy to use.
-✅ Works seamlessly with Node.js.
+
+- ✅ Fetches League of Legends champion details.
+- ✅ Supports multiple languages (`en`, `tr`, and many more!).
+- ✅ Lightweight and easy to use.
+- ✅ Works seamlessly with Node.js.
 
 ---
 
 ## 🔥 Quick Start
+
+Here's a quick example to get you started:
 
 ```js
 const { getChampionInfo } = require("lol-champion-info");
@@ -42,13 +47,16 @@ main();
 ## 📌 API Method
 
 ### `getChampionInfo(championName, language)`
+
 Fetches details about a League of Legends champion.
 
 **Parameters:**
+
 - `championName` _(string)_: The name of the champion.
 - `language` _(string, optional)_: The language (`en`, `tr`, or any other languages). Defaults to `en`.
 
 **Returns:**
+
 - A JSON object with champion details including name, abilities, stats, and skins.
 
 ---
