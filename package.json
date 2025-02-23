@@ -1,0 +1,33 @@
+{
+  "name": "lol-champion-info",
+  "version": "1.0.0",
+  "description": "A simple Node.js wrapper to fetch League of Legends champion details from an API with multi-language support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utkuberkaykoc/lol-champion-info.git"
+  },
+  "keywords": [
+    "league-of-legends",
+    "leagueoflegends",
+    "lol",
+    "riot-games",
+    "champion",
+    "api",
+    "game",
+    "champion-info",
+    "lol-api",
+    "lol-champion-info",
+    "lol-champion",
+    "multi-language",
+    "multi-language-support"
+  ],
+  "author": "Utku Berkay Koç",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
