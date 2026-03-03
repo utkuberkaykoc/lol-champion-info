@@ -1,6 +1,7 @@
 # LOL Champion Info 🏆
 
-A simple Node.js wrapper to fetch League of Legends champion details from an API with multi-language support.
+✅ **Free to use!**
+🎮 A simple Node.js wrapper to fetch **League of Legends** champion details. **Multi-language** support included!
 
 ![NPM Version](https://img.shields.io/npm/v/lol-champion-info?color=blue&style=flat-square)
 ![Downloads](https://img.shields.io/npm/dt/lol-champion-info?color=green&style=flat-square)

@@ -1,6 +1,6 @@
 {
   "name": "lol-champion-info",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "A simple Node.js wrapper to fetch League of Legends champion details from an API with multi-language support.",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,8 @@
     "lol-champion-info",
     "lol-champion",
     "multi-language",
-    "multi-language-support"
+    "multi-language-support",
+    "free"
   ],
   "author": "Utku Berkay Koç",
   "license": "MIT",
