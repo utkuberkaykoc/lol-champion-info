@@ -1,7 +1,7 @@
 {
   "name": "lol-champion-info",
-  "version": "1.0.5",
-  "description": "A simple Node.js wrapper to fetch League of Legends champion details from an API with multi-language support.",
+  "version": "2.0.0",
+  "description": "A Node.js wrapper for League of Legends champion data with random champion picker, champion comparison, built-in caching, and multi-language support.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
